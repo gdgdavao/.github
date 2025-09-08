@@ -1,4 +1,4 @@
-# Welcome to GDG Davao! 👋
+# Welcome to GDG Davao OSS! 👋
 
 We are the **Google Developer Group Davao**, a vibrant and dynamic community of developers, and tech enthusiasts established in 2012 in Mindanao, Philippines. Our mission is to foster a collaborative environment where individuals passionate about Google's ever-evolving technologies can connect, learn, and innovate together.
 
